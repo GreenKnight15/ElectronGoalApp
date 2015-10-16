@@ -1,0 +1,25 @@
+{
+  "name"         : "goal-app",
+  "version"      : "0.0.1",
+  "description"  : "Simple goal application.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GreenKnight15/GoalApp.git"
+   },
+    
+  "author"           : "James",
+  "license": "JR",
+  "private": true,
+    
+  "dependencies"     : {
+    "express"        : "~4.7.2",
+    "mongoose"       : "~3.6.2",
+    "morgan"         : "~1.2.2",
+    "body-parser"    : "~1.5.2",
+    "method-override": "~2.1.2",
+    "angular"        : "1.4.7",
+    "bootstrap"      : "3.3.5",
+    "jquery"         : "2.1.4",
+    "angular-material" : "0.11.4"
+    }
+}
